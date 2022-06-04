@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yh77NFlHdHgLqOcTDx/1+K6uf34dMM2EbG9v3Kbwo207yEPECj58ps/bSenLrC88ydwYNXIKo4p54HXJAnnh5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulosantos\\source\\repos\\TesteConectividade\\TesteConectividade\\TesteConectividade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulosantos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\paulosantos\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\paulosantos\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

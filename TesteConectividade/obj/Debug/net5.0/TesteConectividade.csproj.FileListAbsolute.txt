@@ -1,0 +1,17 @@
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\bin\Debug\net5.0\TesteConectividade.exe
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\bin\Debug\net5.0\TesteConectividade.deps.json
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\bin\Debug\net5.0\TesteConectividade.runtimeconfig.json
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\bin\Debug\net5.0\TesteConectividade.runtimeconfig.dev.json
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\bin\Debug\net5.0\TesteConectividade.dll
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\bin\Debug\net5.0\ref\TesteConectividade.dll
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\bin\Debug\net5.0\TesteConectividade.pdb
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\obj\Debug\net5.0\TesteConectividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\obj\Debug\net5.0\TesteConectividade.AssemblyInfoInputs.cache
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\obj\Debug\net5.0\TesteConectividade.AssemblyInfo.cs
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\obj\Debug\net5.0\TesteConectividade.csproj.CoreCompileInputs.cache
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\obj\Debug\net5.0\TesteConectividade.csproj.CopyComplete
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\obj\Debug\net5.0\TesteConectividade.dll
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\obj\Debug\net5.0\ref\TesteConectividade.dll
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\obj\Debug\net5.0\TesteConectividade.pdb
+C:\Users\paulosantos\source\repos\TesteConectividade\TesteConectividade\obj\Debug\net5.0\TesteConectividade.genruntimeconfig.cache
